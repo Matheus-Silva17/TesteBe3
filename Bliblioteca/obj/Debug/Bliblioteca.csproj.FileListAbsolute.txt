@@ -1,0 +1,9 @@
+C:\WindowsForms\Curso\Teste be3\Bliblioteca\bin\Debug\Bliblioteca.dll
+C:\WindowsForms\Curso\Teste be3\Bliblioteca\bin\Debug\Bliblioteca.pdb
+C:\WindowsForms\Curso\Teste be3\Bliblioteca\obj\Debug\Bliblioteca.csproj.AssemblyReference.cache
+C:\WindowsForms\Curso\Teste be3\Bliblioteca\obj\Debug\Bliblioteca.csproj.CoreCompileInputs.cache
+C:\WindowsForms\Curso\Teste be3\Bliblioteca\obj\Debug\Bliblioteca.dll
+C:\WindowsForms\Curso\Teste be3\Bliblioteca\obj\Debug\Bliblioteca.pdb
+C:\WindowsForms\Curso\Teste be3\Bliblioteca\bin\Debug\Newtonsoft.Json.dll
+C:\WindowsForms\Curso\Teste be3\Bliblioteca\bin\Debug\Newtonsoft.Json.xml
+C:\WindowsForms\Curso\Teste be3\Bliblioteca\obj\Debug\Bliblioteca.csproj.CopyComplete

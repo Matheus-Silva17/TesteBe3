@@ -1,0 +1,13 @@
+C:\WindowsForms\Curso\Teste be3\Blibliotecas\bin\Debug\net6.0-windows\Blibliotecas.dll.config
+C:\WindowsForms\Curso\Teste be3\Blibliotecas\bin\Debug\net6.0-windows\Blibliotecas.deps.json
+C:\WindowsForms\Curso\Teste be3\Blibliotecas\bin\Debug\net6.0-windows\Blibliotecas.dll
+C:\WindowsForms\Curso\Teste be3\Blibliotecas\bin\Debug\net6.0-windows\Blibliotecas.pdb
+C:\WindowsForms\Curso\Teste be3\Blibliotecas\obj\Debug\net6.0-windows\Blibliotecas.csproj.AssemblyReference.cache
+C:\WindowsForms\Curso\Teste be3\Blibliotecas\obj\Debug\net6.0-windows\Blibliotecas.GeneratedMSBuildEditorConfig.editorconfig
+C:\WindowsForms\Curso\Teste be3\Blibliotecas\obj\Debug\net6.0-windows\Blibliotecas.AssemblyInfoInputs.cache
+C:\WindowsForms\Curso\Teste be3\Blibliotecas\obj\Debug\net6.0-windows\Blibliotecas.AssemblyInfo.cs
+C:\WindowsForms\Curso\Teste be3\Blibliotecas\obj\Debug\net6.0-windows\Blibliotecas.csproj.CoreCompileInputs.cache
+C:\WindowsForms\Curso\Teste be3\Blibliotecas\obj\Debug\net6.0-windows\Blibliotecas.dll
+C:\WindowsForms\Curso\Teste be3\Blibliotecas\obj\Debug\net6.0-windows\refint\Blibliotecas.dll
+C:\WindowsForms\Curso\Teste be3\Blibliotecas\obj\Debug\net6.0-windows\Blibliotecas.pdb
+C:\WindowsForms\Curso\Teste be3\Blibliotecas\obj\Debug\net6.0-windows\ref\Blibliotecas.dll

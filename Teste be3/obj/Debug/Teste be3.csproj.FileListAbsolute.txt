@@ -1,0 +1,18 @@
+C:\WindowsForms\Curso\Teste be3\Teste be3\bin\Debug\Teste be3.exe.config
+C:\WindowsForms\Curso\Teste be3\Teste be3\bin\Debug\Teste be3.exe
+C:\WindowsForms\Curso\Teste be3\Teste be3\bin\Debug\Teste be3.pdb
+C:\WindowsForms\Curso\Teste be3\Teste be3\bin\Debug\Bliblioteca.dll
+C:\WindowsForms\Curso\Teste be3\Teste be3\bin\Debug\Bliblioteca.pdb
+C:\WindowsForms\Curso\Teste be3\Teste be3\obj\Debug\Teste be3.csproj.AssemblyReference.cache
+C:\WindowsForms\Curso\Teste be3\Teste be3\obj\Debug\Teste be3.csproj.SuggestedBindingRedirects.cache
+C:\WindowsForms\Curso\Teste be3\Teste be3\obj\Debug\Teste_be3.Frm_Login.resources
+C:\WindowsForms\Curso\Teste be3\Teste be3\obj\Debug\Teste_be3.Frm_Menu.resources
+C:\WindowsForms\Curso\Teste be3\Teste be3\obj\Debug\Teste_be3.Properties.Resources.resources
+C:\WindowsForms\Curso\Teste be3\Teste be3\obj\Debug\Teste be3.csproj.GenerateResource.cache
+C:\WindowsForms\Curso\Teste be3\Teste be3\obj\Debug\Teste be3.csproj.CoreCompileInputs.cache
+C:\WindowsForms\Curso\Teste be3\Teste be3\obj\Debug\Teste be3.csproj.CopyComplete
+C:\WindowsForms\Curso\Teste be3\Teste be3\obj\Debug\Teste be3.exe
+C:\WindowsForms\Curso\Teste be3\Teste be3\obj\Debug\Teste be3.pdb
+C:\WindowsForms\Curso\Teste be3\Teste be3\obj\Debug\Teste_be3.Frm_Cadastro_UC.resources
+C:\WindowsForms\Curso\Teste be3\Teste be3\bin\Debug\Newtonsoft.Json.dll
+C:\WindowsForms\Curso\Teste be3\Teste be3\bin\Debug\Newtonsoft.Json.xml
